@@ -1,3 +1,4 @@
+# Работает не правильно >>>> исправить
 admins=['dmitriy', 'roman', 'alexandr', 'vladislav', 'nikolay']
 users_admin=input("Enter name users: ")
 for admin in admins:
@@ -5,4 +6,4 @@ for admin in admins:
         print("Hello admin " + admin)
     else:
         print("You do have not administrator right")
-    break
+    #break
