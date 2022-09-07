@@ -1,5 +1,3 @@
-from audioop import reverse
-
 
 countries=['usa','paris','italy','turkey','poland']
 print(countries)
