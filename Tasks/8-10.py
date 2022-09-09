@@ -1,7 +1,3 @@
-
-from unicodedata import name
-
-
 def show_magicians(names):
     print("Names magicians: ")
     for name in names:
