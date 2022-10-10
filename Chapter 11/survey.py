@@ -18,3 +18,5 @@ class AnonymousSurvey():
         print("Survey results: ")
         for response in self.responses:
             print("- " + response)
+    
+    #pprint
